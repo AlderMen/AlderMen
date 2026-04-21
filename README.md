@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlderMen
+- 👋 Hi, I’m @Eamon
 - 👀 I’m interested in AI for Science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
